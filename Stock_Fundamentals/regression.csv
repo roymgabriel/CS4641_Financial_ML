@@ -1,0 +1,8 @@
+Date,Ticker,y_true,y_predicted_dt,y_predicted_rf
+2020-03-28,AAPL,0,0,0
+2020-06-27,AAPL,1,1,1
+2020-09-26,AAPL,1,1,1
+2020-03-31,TSLA,1,1,1
+2020-06-30,TSLA,1,1,1
+2020-09-30,TSLA,1,1,1
+2020-12-31,TSLA,1,1,1
